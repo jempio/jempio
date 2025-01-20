@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 😄 my name is justin
-- 🔭i'm a third-year student at the university of toronto
+- 🔭 i'm a third-year student at the university of toronto
 - 🌱 studying computer science and computational cognitive sciences
-- 👯aspiring software engineer!
+- 👯 aspiring software engineer!
 - 📫 reach me on [linkedln](https://www.linkedin.com/in/justin-li-2ba675199/)
 
 <!--
