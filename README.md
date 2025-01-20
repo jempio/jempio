@@ -5,6 +5,7 @@
 - 👯 aspiring software engineer!
 - 📫 reach me on [linkedln](https://www.linkedin.com/in/justin-li-2ba675199/)
 
+[![Tech Stack:](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **jempio/jempio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
